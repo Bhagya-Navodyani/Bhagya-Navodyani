@@ -1,166 +1,219 @@
 # Hi there 👋 I'm Bhagya Navodyani
 <div align="center">
 
-<!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bhagya%20Navodyani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Information%20Technology%20Undergraduate&descAlignY=55&descSize=18"/>
-
-</div>
-
-<!-- Animated Girl + Hi Section -->
-<div align="center">
-
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="300" align="center">
-
-<img src="https://raw.githubusercontent.com/Bhagya-Navodyani/Bhagya-Navodyani/main/assets/girl-wave.gif" width="220" alt="Waving Girl" onerror="this.style.display='none'"/>
-
-<!-- Fallback animated SVG girl waving -->
-<svg width="220" height="260" viewBox="0 0 220 260" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <radialGradient id="bgGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1"/>
-    </radialGradient>
-    <linearGradient id="skinGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f4c4a1"/>
-      <stop offset="100%" style="stop-color:#e8a87c"/>
-    </linearGradient>
-    <linearGradient id="dressGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6c63ff"/>
-      <stop offset="100%" style="stop-color:#a855f7"/>
-    </linearGradient>
-    <linearGradient id="hairGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2d1b69"/>
-      <stop offset="100%" style="stop-color:#1a0a3d"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Body -->
-  <!-- Torso / Dress -->
-  <ellipse cx="110" cy="185" rx="38" ry="50" fill="url(#dressGrad)"/>
-  <!-- Dress skirt flare -->
-  <ellipse cx="110" cy="220" rx="50" ry="22" fill="url(#dressGrad)" opacity="0.9"/>
-
-  <!-- Neck -->
-  <rect x="103" y="140" width="14" height="22" rx="5" fill="url(#skinGrad)"/>
-
-  <!-- Head -->
-  <ellipse cx="110" cy="120" rx="34" ry="36" fill="url(#skinGrad)"/>
-
-  <!-- Hair back -->
-  <ellipse cx="110" cy="110" rx="36" ry="38" fill="url(#hairGrad)"/>
-  <!-- Hair front -->
-  <ellipse cx="110" cy="100" rx="34" ry="24" fill="url(#hairGrad)"/>
-  <!-- Hair bangs -->
-  <ellipse cx="90" cy="105" rx="12" ry="16" fill="url(#hairGrad)"/>
-  <!-- Long hair sides -->
-  <ellipse cx="80" cy="135" rx="10" ry="28" fill="url(#hairGrad)"/>
-  <ellipse cx="140" cy="135" rx="10" ry="28" fill="url(#hairGrad)"/>
-
-  <!-- Face details -->
-  <!-- Eyes -->
-  <ellipse cx="100" cy="118" rx="5" ry="6" fill="#2d1b69"/>
-  <ellipse cx="120" cy="118" rx="5" ry="6" fill="#2d1b69"/>
-  <circle cx="101.5" cy="116.5" r="1.5" fill="white"/>
-  <circle cx="121.5" cy="116.5" r="1.5" fill="white"/>
-  <!-- Smile -->
-  <path d="M 100 132 Q 110 140 120 132" stroke="#c0736a" stroke-width="2" fill="none" stroke-linecap="round"/>
-  <!-- Blush -->
-  <ellipse cx="93" cy="130" rx="7" ry="4" fill="#ffb3ba" opacity="0.5"/>
-  <ellipse cx="127" cy="130" rx="7" ry="4" fill="#ffb3ba" opacity="0.5"/>
-  <!-- Nose -->
-  <circle cx="110" cy="127" r="2" fill="#d4956a" opacity="0.6"/>
-
-  <!-- LEFT arm - static -->
-  <rect x="64" y="155" width="14" height="40" rx="7" fill="url(#skinGrad)"/>
-  <!-- Left hand -->
-  <circle cx="71" cy="198" r="8" fill="url(#skinGrad)"/>
-
-  <!-- RIGHT arm - WAVING ANIMATION -->
-  <g transform-origin="145 160">
-    <animateTransform attributeName="transform" type="rotate"
-      values="-30 145 160; 30 145 160; -30 145 160"
-      dur="0.8s" repeatCount="indefinite"/>
-    <rect x="138" y="152" width="14" height="42" rx="7" fill="url(#skinGrad)"/>
-    <!-- Right hand with fingers -->
-    <circle cx="145" cy="196" r="8" fill="url(#skinGrad)"/>
-    <rect x="137" y="186" width="5" height="12" rx="2.5" fill="url(#skinGrad)"/>
-    <rect x="143" y="184" width="5" height="14" rx="2.5" fill="url(#skinGrad)"/>
-    <rect x="149" y="185" width="5" height="13" rx="2.5" fill="url(#skinGrad)"/>
-    <rect x="154" y="188" width="4" height="10" rx="2" fill="url(#skinGrad)"/>
-  </g>
-
-  <!-- Legs -->
-  <rect x="92" y="228" width="16" height="28" rx="8" fill="#5a4fcf"/>
-  <rect x="112" y="228" width="16" height="28" rx="8" fill="#5a4fcf"/>
-  <!-- Shoes -->
-  <ellipse cx="100" cy="257" rx="11" ry="5" fill="#1a0a3d"/>
-  <ellipse cx="120" cy="257" rx="11" ry="5" fill="#1a0a3d"/>
-
-  <!-- Sparkles around -->
-  <g opacity="0.8">
-    <circle cx="40" cy="80" r="3" fill="#a855f7">
-      <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite" begin="0s"/>
-      <animate attributeName="r" values="1;4;1" dur="1.5s" repeatCount="indefinite" begin="0s"/>
-    </circle>
-    <circle cx="180" cy="70" r="3" fill="#6c63ff">
-      <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite" begin="0.5s"/>
-      <animate attributeName="r" values="1;4;1" dur="1.5s" repeatCount="indefinite" begin="0.5s"/>
-    </circle>
-    <circle cx="55" cy="200" r="2" fill="#f59e0b">
-      <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" begin="0.3s"/>
-    </circle>
-    <circle cx="175" cy="195" r="2" fill="#10b981">
-      <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" begin="0.8s"/>
-    </circle>
-    <circle cx="30" cy="150" r="2" fill="#f472b6">
-      <animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite" begin="1s"/>
-    </circle>
-    <circle cx="190" cy="140" r="2" fill="#38bdf8">
-      <animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite" begin="0.2s"/>
-    </circle>
-  </g>
-</svg>
-
-</td>
-<td width="420" align="left" style="padding-left: 20px;">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=A855F7&center=false&vCenter=true&width=380&lines=Hi+there!+%F0%9F%91%8B;I'm+Bhagya+Navodyani;IT+Undergraduate+%F0%9F%8E%93;Passionate+Developer+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/Bhagya-Navodyani?label=Followers&style=social)](https://github.com/Bhagya-Navodyani)
-[![Profile Views](https://komarev.com/ghpvc/?username=Bhagya-Navodyani&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Bhagya-Navodyani)
-
-</td>
-</tr>
-</table>
+<!-- Animated Header Wave with BIG BHAGYA -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=BHAGYA&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Navodyani%20%7C%20Information%20Technology%20Undergraduate&descAlignY=65&descSize=20&descColor=e0d7ff"/>
 
 </div>
 
 ---
 
-## 🌟 About Me
+<!-- Animated Girl + Intro Section -->
+<div align="center">
+<table border="0" cellpadding="20" cellspacing="0" width="100%">
+<tr>
+<td width="40%" align="center" valign="middle">
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+<!-- Animated Professional Girl SVG -->
+<svg width="250" height="320" viewBox="0 0 250 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skin" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FDBCB4"/>
+      <stop offset="100%" style="stop-color:#E8967A"/>
+    </linearGradient>
+    <linearGradient id="dress" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#7C3AED"/>
+      <stop offset="100%" style="stop-color:#4F46E5"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1C0A4A"/>
+      <stop offset="100%" style="stop-color:#3B1FA8"/>
+    </linearGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#A855F7;stop-opacity:0.25"/>
+      <stop offset="100%" style="stop-color:#A855F7;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Glow background circle -->
+  <ellipse cx="125" cy="165" rx="100" ry="115" fill="url(#glow2)">
+    <animate attributeName="rx" values="95;112;95" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="108;122;108" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- BODY / BLAZER -->
+  <path d="M 82 195 Q 66 215 64 295 L 186 295 Q 184 215 168 195 Z" fill="url(#dress)"/>
+  <!-- Blazer shading -->
+  <path d="M 82 195 Q 75 215 72 295 L 88 295 Q 90 215 95 200 Z" fill="#5B21B6" opacity="0.5"/>
+  <path d="M 168 195 Q 175 215 178 295 L 162 295 Q 160 215 155 200 Z" fill="#5B21B6" opacity="0.5"/>
+  <!-- White shirt / collar area -->
+  <path d="M 110 192 L 104 215 L 125 222 L 146 215 L 140 192 Z" fill="#F9FAFB"/>
+  <!-- Collar notches -->
+  <path d="M 110 192 L 118 208 L 125 205" fill="#E5E7EB"/>
+  <path d="M 140 192 L 132 208 L 125 205" fill="#E5E7EB"/>
+  <!-- Button -->
+  <circle cx="125" cy="218" r="3" fill="#D1D5DB"/>
+  <circle cx="125" cy="230" r="3" fill="#D1D5DB"/>
+
+  <!-- NECK -->
+  <rect x="113" y="160" width="24" height="32" rx="9" fill="url(#skin)"/>
+
+  <!-- HAIR BACK -->
+  <ellipse cx="125" cy="128" rx="46" ry="52" fill="url(#hair)"/>
+  <!-- Long hair flowing sides -->
+  <path d="M 80 145 Q 68 195 74 255" stroke="#1C0A4A" stroke-width="20" fill="none" stroke-linecap="round"/>
+  <path d="M 170 145 Q 182 195 176 255" stroke="#1C0A4A" stroke-width="20" fill="none" stroke-linecap="round"/>
+
+  <!-- HEAD FACE -->
+  <ellipse cx="125" cy="126" rx="40" ry="44" fill="url(#skin)"/>
+
+  <!-- HAIR FRONT/TOP -->
+  <path d="M 86 118 Q 94 80 125 76 Q 156 80 164 118 Q 150 98 125 96 Q 100 98 86 118 Z" fill="url(#hair)"/>
+  <!-- Side swept bangs -->
+  <path d="M 86 118 Q 98 94 116 106 Q 103 110 98 122 Z" fill="#1C0A4A"/>
+
+  <!-- EYES -->
+  <ellipse cx="110" cy="123" rx="8" ry="9" fill="white"/>
+  <ellipse cx="140" cy="123" rx="8" ry="9" fill="white"/>
+  <ellipse cx="110" cy="125" rx="6" ry="7" fill="#1C0A4A"/>
+  <ellipse cx="140" cy="125" rx="6" ry="7" fill="#1C0A4A"/>
+  <circle cx="112" cy="122" r="2.5" fill="white"/>
+  <circle cx="142" cy="122" r="2.5" fill="white"/>
+  <!-- Eyelashes upper -->
+  <path d="M 103 117 L 101 111 M 107 115 L 106 109 M 117 115 L 118 109" stroke="#1C0A4A" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M 133 115 L 132 109 M 140 115 L 139 109 M 147 117 L 149 111" stroke="#1C0A4A" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- EYEBROWS -->
+  <path d="M 101 113 Q 109 107 118 111" stroke="#1C0A4A" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 132 111 Q 141 107 149 113" stroke="#1C0A4A" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- NOSE -->
+  <path d="M 122 133 Q 119 142 125 144 Q 131 142 128 133" stroke="#d4956a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- SMILE / LIPS -->
+  <path d="M 114 153 Q 125 165 136 153" stroke="#C0736A" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M 116 156 Q 125 161 134 156" fill="#E07070" opacity="0.6"/>
+  <!-- BLUSH CHEEKS -->
+  <ellipse cx="97" cy="142" rx="10" ry="6" fill="#FFB3BA" opacity="0.5"/>
+  <ellipse cx="153" cy="142" rx="10" ry="6" fill="#FFB3BA" opacity="0.5"/>
+
+  <!-- LEFT ARM - resting down -->
+  <rect x="60" y="194" width="20" height="48" rx="10" fill="url(#skin)"/>
+  <ellipse cx="70" cy="245" rx="12" ry="10" fill="url(#skin)"/>
+
+  <!-- RIGHT ARM - WAVING ANIMATION -->
+  <!-- Upper arm rotates from shoulder -->
+  <g transform="translate(162, 192)">
+    <animateTransform attributeName="transform" type="rotate"
+      values="-25 0 0; -55 0 0; -25 0 0"
+      dur="0.75s" repeatCount="indefinite" additive="replace"
+      calcMode="spline" keySplines="0.37 0 0.63 1; 0.37 0 0.63 1"/>
+    <rect x="-10" y="0" width="20" height="44" rx="10" fill="url(#skin)"/>
+    <!-- Forearm bends -->
+    <g transform="translate(0, 42)">
+      <animateTransform attributeName="transform" type="rotate"
+        values="10 0 0; -30 0 0; 10 0 0"
+        dur="0.75s" repeatCount="indefinite" additive="replace"
+        calcMode="spline" keySplines="0.37 0 0.63 1; 0.37 0 0.63 1"/>
+      <rect x="-9" y="0" width="18" height="38" rx="9" fill="url(#skin)"/>
+      <!-- HAND + FINGERS -->
+      <g transform="translate(0, 36)">
+        <ellipse cx="0" cy="8" rx="12" ry="10" fill="url(#skin)"/>
+        <!-- Fingers spread -->
+        <rect x="-14" y="-2" width="8" height="18" rx="4" fill="url(#skin)"/>
+        <rect x="-5" y="-6" width="8" height="20" rx="4" fill="url(#skin)"/>
+        <rect x="4" y="-5" width="8" height="19" rx="4" fill="url(#skin)"/>
+        <rect x="12" y="-1" width="7" height="16" rx="3.5" fill="url(#skin)"/>
+        <!-- Thumb -->
+        <rect x="-18" y="5" width="8" height="14" rx="4" fill="url(#skin)" transform="rotate(-35 -14 12)"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- LEGS -->
+  <rect x="98" y="283" width="22" height="32" rx="11" fill="#3730A3"/>
+  <rect x="130" y="283" width="22" height="32" rx="11" fill="#3730A3"/>
+  <!-- SHOES -->
+  <ellipse cx="109" cy="316" rx="16" ry="7" fill="#1C0A4A"/>
+  <ellipse cx="141" cy="316" rx="16" ry="7" fill="#1C0A4A"/>
+
+  <!-- FLOATING SPARKLES & STARS -->
+  <g transform="translate(28, 58)">
+    <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" begin="0s"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="28 58; 26 46; 28 58" dur="2s" repeatCount="indefinite" begin="0s"/>
+    <path d="M0,-9 L2.2,-2.2 L9,0 L2.2,2.2 L0,9 L-2.2,2.2 L-9,0 L-2.2,-2.2 Z" fill="#F59E0B"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="218 75; 221 63; 218 75" dur="2.5s" repeatCount="indefinite" begin="0.8s"/>
+    <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite" begin="0.8s"/>
+    <path d="M218,75 L219.5,70.5 L224,69 L219.5,67.5 L218,63 L216.5,67.5 L212,69 L216.5,70.5 Z" fill="#A855F7"/>
+  </g>
+  <circle cx="42" cy="205" r="4" fill="#6C63FF">
+    <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite" begin="0.3s"/>
+    <animate attributeName="r" values="2;5;2" dur="1.5s" repeatCount="indefinite" begin="0.3s"/>
+  </circle>
+  <circle cx="213" cy="228" r="4" fill="#10B981">
+    <animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="r" values="2;5;2" dur="1.8s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  <circle cx="32" cy="268" r="3" fill="#F472B6">
+    <animate attributeName="opacity" values="0;1;0" dur="2.2s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="r" values="1;4;1" dur="2.2s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+  <circle cx="222" cy="155" r="3" fill="#38BDF8">
+    <animate attributeName="opacity" values="0;1;0" dur="1.7s" repeatCount="indefinite" begin="1.3s"/>
+    <animate attributeName="r" values="1;4;1" dur="1.7s" repeatCount="indefinite" begin="1.3s"/>
+  </circle>
+
+  <!-- Rotating Tech symbols around her -->
+  <text font-size="13" fill="#6C63FF" text-anchor="middle">
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 125 165; 360 125 165" dur="12s" repeatCount="indefinite"/>
+    <textPath href="#orbit1">⚡</textPath>
+  </text>
+  <circle id="orbitPath" cx="125" cy="165" r="115" fill="none"/>
+
+  <!-- Small code brackets floating -->
+  <text x="18" y="160" font-size="18" fill="#6C63FF" opacity="0">
+    &lt;/&gt;
+    <animate attributeName="opacity" values="0;0.8;0" dur="3s" repeatCount="indefinite" begin="0.5s"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 -10; 0 0" dur="3s" repeatCount="indefinite" begin="0.5s"/>
+  </text>
+  <text x="205" y="110" font-size="14" fill="#A855F7" opacity="0">
+    { }
+    <animate attributeName="opacity" values="0;0.8;0" dur="2.8s" repeatCount="indefinite" begin="1.4s"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 -8; 0 0" dur="2.8s" repeatCount="indefinite" begin="1.4s"/>
+  </text>
+</svg>
+
+</td>
+<td width="60%" align="left" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=600&color=A855F7&center=false&vCenter=true&width=430&lines=Hi+there!+%F0%9F%91%8B;I'm+Bhagya+Navodyani!;IT+Undergraduate+%F0%9F%8E%93;Passionate+Developer+%F0%9F%9A%80;Lifelong+Learner+%E2%9C%A8;Building+the+Future+%F0%9F%92%BB" alt="Typing SVG" />
+
+<br/><br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/Bhagya-Navodyani?label=Followers&style=social)](https://github.com/Bhagya-Navodyani)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Bhagya-Navodyani&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Bhagya-Navodyani)
+
+<br/>
 
 ```yaml
-Name     : Bhagya Navodyani
-Location : Sri Lanka 🇱🇰
-Education: BSc (Hons) Information Technology
-Status   : Undergraduate Student
-Focus    : Full-Stack Development & AI/ML
-Passion  : Building things that matter ✨
+👩‍💻 Name     : Bhagya Navodyani
+📍 Location : Sri Lanka 🇱🇰
+🎓 Degree   : BSc (Hons) Information Technology
+🌱 Status   : Undergraduate Student
+💡 Passion  : Building elegant solutions
+⚡ Fun fact : I debug with coffee ☕
 ```
 
-- 🎓 Currently pursuing my **IT degree** with a passion for software engineering
-- 🌱 Constantly exploring new technologies and frameworks
-- 💡 Love turning ideas into elegant digital solutions
-- 🤝 Open to collaborations and exciting projects
-- ⚡ Fun fact: I debug with coffee ☕ and determination!
-
-<br clear="right"/>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -168,9 +221,9 @@ Passion  : Building things that matter ✨
 
 <div align="center">
 
-| 🔭 Learning | 🌱 Exploring | 💬 Ask me about |
+| 🔭 Currently Learning | 🌱 Exploring | 💬 Ask Me About |
 |:---:|:---:|:---:|
-| Modern Web Development | Cloud & DevOps | Software Engineering |
+| Modern Web Dev | Cloud & DevOps | Software Engineering |
 | React & JavaScript | Machine Learning | IT & Programming |
 | Java & Spring Boot | Open Source | Problem Solving |
 
@@ -180,22 +233,16 @@ Passion  : Building things that matter ✨
 
 ## 🛠️ Skills & Technologies
 
-<!-- Rotating Tech Orbit Animation -->
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,spring,mysql,mongodb,git,github,vscode,figma,linux&perline=8&theme=dark" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,spring,mysql,mongodb,git,github,vscode,figma,linux&perline=8&theme=dark" alt="Tech Skills"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -242,9 +289,7 @@ Passion  : Building things that matter ✨
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bhagya-Navodyani&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Bhagya-Navodyani&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 </div>
 
 ---
@@ -252,9 +297,7 @@ Passion  : Building things that matter ✨
 ## 💭 Quote of the Day
 
 <div align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
 </div>
 
 ---
@@ -274,80 +317,16 @@ Passion  : Building things that matter ✨
 ---
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-
 </div>
 
 <div align="center">
 
-### 🌸 Thanks for visiting! Feel free to star ⭐ repos you find interesting!
+### 🌸 Thanks for visiting! Don't forget to ⭐ repos you find interesting!
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
-
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Bhagya%20Navodyani&fontSize=40&fontColor=white&animation=twinkling&fontAlignY=40" width="100%">
-</div>
-<h2 align="center">🚀 Passionate Full Stack Developer</h2>
-
-### Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,vue,spring,nodejs,express&perline=8" />
-</p>
- 
-
-### Databases & Cloud Infrastructure
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,docker&perline=7" />
-</p>
-
-### Development & Design Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,postman,vscode,idea,github&perline=7" />
-</p>
-
-
----
-<div>
-  <!--Animation-->
-  <img src="https://raw.githubusercontent.com/BhagyaNavodyani/BhagyaNavodyani/main/animation_light.gif#gh-light-mode-only" width="50%" align="left" alt="Animation" />
-  <img src="https://raw.githubusercontent.com/BhagyaNavodyani/BhagyaNavodyani/main/animation_dark.gif#gh-dark-mode-only" width="50%" align="left" alt="Animation" />
-</div>
-
----
-
-### 🚀 About Me
-Software Engineering Student @ SLIIT 🎓 | Full-Stack Developer | 
-Passionate about UI/UX & Problem Solving | Developing Innovative Web Applications 🌍
-* 💻 MERN Stack & Java/Spring Boot Developer
-* 🛡️ Cybersecurity Enthusiast
-  
----
-
-<!--Footer-->
-
-<h3 align="center">Thanks for visiting my GitHub profile</h3>
-
-### 📬 Connect with me 
-
-<!--GitHub Stats-->
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="www.linkedin.com/in/bhagya-navodyani-b5a9a6322" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.virajkosala0204@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-
-  <a href="https://www.facebook.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
 
 [Portfolio](https://agent-69c571fe3c3f7f0d56--dainty-rugelach-6dd41d.netlify.app/) 
 
