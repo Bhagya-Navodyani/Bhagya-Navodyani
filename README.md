@@ -42,15 +42,6 @@ Passionate about building scalable software solutions, exploring modern technolo
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Synexis Backend
-Integrated Operations Management System built with Java.
-
-### 🔹 Lumina
-Blood Donation Management System focused on solving real-world coordination challenges.
-
----
 
 ## 🎯 Current Focus
 
