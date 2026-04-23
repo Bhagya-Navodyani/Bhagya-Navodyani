@@ -1,87 +1,116 @@
 # Hi there 👋 I'm Bhagya Navodyani
+<!-- Animated Typing Header -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Hi+There+%F0%9F%91%8B;I'm+Bhagya+Navodyani;Information+Technology+Undergraduate;Aspiring+Full+Stack+Developer;Always+Learning+New+Things" />
+</p>
 
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Problem Solver</h3>
+<h1 align="center">Welcome to My GitHub Profile 🚀</h1>
+
+---
 
 <p align="center">
-Passionate about building scalable software solutions, exploring modern technologies, and continuously improving through hands-on development.
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280">
 </p>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-- 🎓 BSc (Hons) in Software Engineering Undergraduate  
-- 💻 Aspiring Full Stack Developer with strong interest in backend and web technologies  
-- 🌱 Currently exploring **Java Spring Boot**, **React**, and modern JavaScript practices  
-- 🔭 Working on personal and academic software projects  
-- ⚡ Interested in software architecture, clean code, and problem-solving  
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🎓 Information Technology Undergraduate  
+
+💻 Passionate about software development and problem solving  
+
+🌱 Currently learning:
+- Java Spring Boot  
+- React.js  
+- Full Stack Development  
+- Software Engineering Best Practices  
+
+⚡ Interested in:
+- Web Development  
+- Backend Engineering  
+- Database Systems  
+- UI/UX and Modern Technologies  
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & Database
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,javascript,react,html,css,python,mysql,git,github,vscode,bootstrap" />
+</p>
 
 ---
 
+## 🏆 Developer Trophies
 
-## 🎯 Current Focus
-
-- Deep-diving into React and modern JavaScript patterns  
-- Building backend systems with Spring Boot  
-- Strengthening full stack development skills  
-- Learning scalable software design practices  
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Bhagya-Navodyani&theme=algolia&row=1&column=6"/>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bhagya-Navodyani&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhagya-Navodyani&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagya-Navodyani&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagya-Navodyani&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagya-Navodyani&theme=tokyonight"/>
 </p>
 
+---
+
+## 📊 Contribution Graph
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagya-Navodyani&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagya-Navodyani&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Bhagya-Navodyani/Bhagya-Navodyani/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](your-link)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/bhagya-navodyani-weerasekara-754b2234b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:bhagyanavodyani000@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
-## ✨ Quote I Live By
-> *“The function of good software is to make the complex appear simple.”*  
-> — Grady Booch
+## ✨ Quote
+
+<p align="center">
+<i>"The function of good software is to make the complex appear simple."</i>  
+<br>
+— Grady Booch
+</p>
 
 ---
-⭐ If you like my work, feel free to explore my repositories and connect!
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
 
 <!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Bhagya%20Navodyani&fontSize=40&fontColor=white&animation=twinkling&fontAlignY=40" width="100%">
