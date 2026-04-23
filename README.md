@@ -1,45 +1,40 @@
 # Hi there 👋 I'm Bhagya Navodyani
-<!-- Animated Typing Header -->
+<!-- Typing Header -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Hi+There+%F0%9F%91%8B;I'm+Bhagya+Navodyani;Information+Technology+Undergraduate;Aspiring+Full+Stack+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Hi+There+👋;I'm+Bhagya+Navodyani;Information+Technology+Undergraduate;Aspiring+Full+Stack+Developer" />
 </p>
 
-<h1 align="center">Welcome to My GitHub Profile 🚀</h1>
-
----
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280">
+Passionate about building, learning and growing through code.
 </p>
 
 ---
 
 ## 💫 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🎓 Information Technology Undergraduate  
-
-💻 Passionate about software development and problem solving  
-
-🌱 Currently learning:
-- Java Spring Boot  
-- React.js  
-- Full Stack Development  
-- Software Engineering Best Practices  
-
-⚡ Interested in:
-- Web Development  
-- Backend Engineering  
-- Database Systems  
-- UI/UX and Modern Technologies  
+- 🎓 Information Technology Undergraduate  
+- 💻 Aspiring Full Stack Developer  
+- 🌱 Currently learning Spring Boot & React  
+- ⚡ Interested in Software Engineering, Web Development and Databases
 
 ---
 
-## 🛠 Tech Stack
+## 🛰 Tech Orbit (Rotating Symbols Style)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,javascript,react,html,css,python,mysql,git,github,vscode,bootstrap" />
+<img src="https://skillicons.dev/icons?i=java,spring,javascript,react,html,css,python,mysql,git,github,vscode,bootstrap,figma" />
+</p>
+
+### ⚛ Tech Constellation
+<p align="center">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="55"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="55"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" width="55"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="55"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="55"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="55"/>
 </p>
 
 ---
@@ -66,7 +61,7 @@
 
 ---
 
-## 📊 Contribution Graph
+## 📊 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagya-Navodyani&theme=tokyo-night"/>
@@ -79,6 +74,15 @@
 <p align="center">
 <img src="https://github.com/Bhagya-Navodyani/Bhagya-Navodyani/blob/output/github-contribution-grid-snake.svg"/>
 </p>
+
+---
+
+## 🚀 Current Focus
+
+- Deep diving into React ecosystem  
+- Building backend APIs with Spring Boot  
+- Strengthening problem-solving skills  
+- Exploring modern software practices
 
 ---
 
@@ -101,15 +105,9 @@
 ## ✨ Quote
 
 <p align="center">
-<i>"The function of good software is to make the complex appear simple."</i>  
+“The function of good software is to make the complex appear simple.”
 <br>
 — Grady Booch
-</p>
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile!
 </p>
 
 <!-- <div align="center">
