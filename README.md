@@ -25,18 +25,18 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Java%20Enthusiast;Code%20With%20Style;Problem%20Solver;Customer%20Oriented;Modern%20Aesthetics;Continuous%20Learner;Open%20To%20Feedback&font=Fira%20Code&center=true&width=500&height=50&color=1F6FEB&vCenter=true&size=22&pause=800">
     </div>
     <div align="center">
-      <a href="https://github.com/LinalUthsara?tab=followers">
+      <a href="https://github.com/Bhagya-Navodyani?tab=followers">
         <img alt="Followers" title="GitHub Followers" 
           src="https://img.shields.io/github/followers/LinalUthsara?label=Followers&style=flat&color=236ad3&labelColor=1155ba&logo=github" />
       </a>
-      <a href="https://github.com/LinalUthsara?tab=repositories&sort=stargazers">
+      <a href="https://github.com/Bhagya-Navodyani?tab=repositories&sort=stargazers">
         <img alt="Stars" title="Total Stars" 
           src="https://img.shields.io/github/stars/LinalUthsara?label=Stars&color=FFB84D&style=flat&labelColor=FFA116&logo=star" />
       </a>
-    <img alt="Profile Views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=LinalUthsara&label=👁%20Profile%20views&color=0e75b6&style=flat"  />
+    <img alt="Profile Views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=Bhagya-Navodyani&label=👁%20Profile%20views&color=0e75b6&style=flat"  />
     </div>
     <div>
-      <h3 align="justify">Aspiring software engineer pursuing a BSc (Hons) in Software Engineering, with a solid foundation in computer science and strong proficiency in multiple modern programming languages. Skilled in software development methodologies, problem-solving, and analytical thinking, with extensive hands-on experience in academic and personal projects.
+      <h3 align="justify">Aspiring software engineer pursuing a BSc (Hons) in Information Technology, with a solid foundation in computer science and strong proficiency in multiple modern programming languages. Skilled in software development methodologies, problem-solving, and analytical thinking, with extensive hands-on experience in academic and personal projects.
     </h3>
     </div>
   </div>
