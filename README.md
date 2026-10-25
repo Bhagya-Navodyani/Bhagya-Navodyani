@@ -167,7 +167,7 @@
 <h4 align="center">Feel free to check out my repositories and contribute</h4> 
 <h4 align="center">If you find something useful, don't hesitate to fork, or open an issue if you have suggestions and don't forget to star ⭐ if you find anything interesting!</h4>
 
-[Portfolio](https://agent-69c571fe3c3f7f0d56--dainty-rugelach-6dd41d.netlify.app/) 
+[Portfolio]([https://agent-69c571fe3c3f7f0d56--dainty-rugelach-6dd41d.netlify.app/](https://bhagya-navodyani.github.io/My-Portfolio/))  
 
 <picture>
   <source srcset="https://capsule-render.vercel.app/api?type=waving&color=2e82ff&height=65&section=footer"media="(prefers-color-scheme: dark)"/>
